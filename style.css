@@ -39,6 +39,7 @@ header .deskripsi{
 	min-height: 100%;
 	margin:25px auto;
 	position: relative;
+	padding: 10px;
 }
 
 .menu img {
@@ -91,7 +92,7 @@ nav.menu ul a:hover {
 #runningtext{
 width: 650px;
 background-color: black ;
-margin-top: 70px;
+margin-top: 65px;
 color: white;
 position: absolute;
 }
